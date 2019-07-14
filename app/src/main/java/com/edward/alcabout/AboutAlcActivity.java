@@ -21,6 +21,7 @@ public class AboutAlcActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_about_alc);
+        setTitle("About ALC");
 
         alcWebView = findViewById(R.id.webview_about_alc);
         alcWebView.getSettings().setLoadsImagesAutomatically(true);
