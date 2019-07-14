@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">ALC About</string>
+    <string name="about_alc">About ALC</string>
+    <string name="about_me">About Me</string>
+    <string name="text_profile_picture">Profile Picture</string>
+    <string name="text_name">Name</string>
+    <string name="text_edward_muturi">Edward Muturi</string>
+    <string name="text_track">Track</string>
+    <string name="text_track_android">Android</string>
+    <string name="text_country">Country</string>
+    <string name="text_country_name">Kenya</string>
+    <string name="text_email">Email</string>
+    <string name="text_email_sample">kakaturi300@gmail.com</string>
+    <string name="text_phone">Phone</string>
+    <string name="text_phone_sample">+254 716 238 698</string>
 </resources>
