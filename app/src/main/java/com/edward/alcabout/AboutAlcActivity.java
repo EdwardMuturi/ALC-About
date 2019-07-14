@@ -27,7 +27,6 @@ public class AboutAlcActivity extends AppCompatActivity {
         alcWebView.getSettings().setLoadsImagesAutomatically(true);
         alcWebView.getSettings().setJavaScriptEnabled(true);
         alcWebView.setScrollBarStyle(View.SCROLLBARS_INSIDE_OVERLAY);
-//        alcWebView.setWebViewClient(new WebViewClient());
         alcWebView.loadUrl("https://andela.com/alc/");
 
         alcWebView.setWebViewClient(new WebViewClient() {
@@ -55,10 +54,9 @@ public class AboutAlcActivity extends AppCompatActivity {
                 handler.proceed(); // Ignore SSL certificate errors
             }
         });
+
         alcWebView.getSettings().setLoadWithOverviewMode(true);
-//        Enable responsive layout
         alcWebView.getSettings().setUseWideViewPort(true);
-//        Zoom out if content width is greater
     }
 
 }
