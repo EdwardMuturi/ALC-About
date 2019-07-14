@@ -3,4 +3,4 @@
 ---------------------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------
 **Splash Activity** |**Main Activity** | **Load Webview** | **Webview**| **Profile**
 
-* [Download APK]("https://drive.google.com/drive/folders/1R_bvNEw-l5fDIaYwm9LpeLUORQdkrsNr?usp=sharing")
+* [Download APK](https://drive.google.com/drive/folders/1R_bvNEw-l5fDIaYwm9LpeLUORQdkrsNr?usp=sharing)
