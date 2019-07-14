@@ -22,6 +22,8 @@
         android:layout_height="wrap_content"
         android:text="@string/about_alc"
         android:onClick="startAboutAlc"
+        style="@style/ProfileText"
+        android:textColor="@color/colorWhite"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/guideline_mainTop" />
@@ -30,6 +32,8 @@
         android:id="@+id/btn_profile"
         android:layout_width="@dimen/dimen_0dp"
         android:layout_height="wrap_content"
+        style="@style/ProfileText"
+        android:textColor="@color/colorWhite"
         android:text="@string/about_me"
         android:layout_marginTop="@dimen/dimen_40dp"
         android:onClick="startProfile"
